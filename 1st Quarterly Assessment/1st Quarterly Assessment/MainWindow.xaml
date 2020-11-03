@@ -5,8 +5,23 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_1st_Quarterly_Assessment"
         mc:Ignorable="d"
-        Title="MainWindow" Height="2500" Width="3000">
+        Title="MainWindow" Height="1000" Width="1500">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="110*"/>
+            <ColumnDefinition Width="263*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Label" HorizontalAlignment="Left" Height="51" Margin="10,43,0,0" VerticalAlignment="Top" Width="388" FontSize="24"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="51" Margin="52,99,0,0" VerticalAlignment="Top" Width="388" FontSize="24"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="51" Margin="52,150,0,0" VerticalAlignment="Top" Width="388" FontSize="24"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="51" Margin="52,206,0,0" VerticalAlignment="Top" Width="388" FontSize="24"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="51" Margin="52,262,0,0" VerticalAlignment="Top" Width="388" FontSize="24"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="51" Margin="52,313,0,0" VerticalAlignment="Top" Width="388" FontSize="24"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="51" Margin="52,364,0,0" VerticalAlignment="Top" Width="388" FontSize="24"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="51" Margin="52,420,0,0" VerticalAlignment="Top" Width="388" FontSize="24"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="51" Margin="52,471,0,0" VerticalAlignment="Top" Width="388" FontSize="24"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="51" Margin="52,527,0,0" VerticalAlignment="Top" Width="388" FontSize="24"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="51" Margin="52,578,0,0" VerticalAlignment="Top" Width="388" FontSize="24"/>
+
     </Grid>
 </Window>
